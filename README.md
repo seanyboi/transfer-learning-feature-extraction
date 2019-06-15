@@ -4,7 +4,7 @@
 
 Create the config file for common variables to be used.
 
-#### STEP 2
+### STEP 2
 
 Divide the dataset into the format that Keras accepts
 
